@@ -108,3 +108,5 @@ end
 gem 'cssbundling-rails', '~> 1.0'
 
 gem 'jsbundling-rails', '~> 1.0'
+
+gem "kt-paperclip", "~> 6.4", ">= 6.4.1"
